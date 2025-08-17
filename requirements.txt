@@ -1,0 +1,13 @@
+
+huggingface-hub
+
+langchain
+
+langchain-huggingface
+
+python-dotenv
+
+requests
+
+tqdm
+
